@@ -1,0 +1,17 @@
+Gene_name,Species,Annotation_gene_id,Trinity_gene_id
+FoxA,Osedax japonicus,Ojap_12147_c0_g2,TRINITY_DN12147_c0_g2
+GSC,Osedax japonicus,Ojap_1633_c3_g1,TRINITY_DN1633_c3_g1
+WntA,Osedax japonicus,Ojap_5228_c0_g2,TRINITY_DN5228_c0_g2
+GataB1,Osedax japonicus,Ojap_10785_c0_g1,TRINITY_DN10785_c0_g1
+GLB3 (hemoB),Osedax japonicus,Ojap_20494_c0_g1,TRINITY_DN20494_c0_g1
+CA,Osedax japonicus,Ojap_18712_c10_g1,TRINITY_DN18712_c10_g1
+Zan,Osedax japonicus,Ojap_2409_c0_g1,TRINITY_DN2409_c0_g1
+ER,Osedax japonicus,Ojap10505_c0_g1,TRINITY_DN10505_c0_g1
+PPBT,Osedax japonicus,Ojap14461_c3_g2,TRINITY_DN14461_c3_g2
+HHEX,Osedax japonicus,Ojap80468_c0_g1,TRINITY_DN80468_c0_g1
+Dmrt2,Osedax japonicus,Ojap1030_c1_g1,TRINITY_DN1030_c1_g1
+Hth,Osedax japonicus,Ojap103_c0_g2,TRINITY_DN103_c0_g2
+PGBM,Osedax japonicus,Ojap1688_c0_g1,TRINITY_DN1688_c0_g1
+DUR3,Osedax japonicus,Ojap1795_c0_g1,TRINITY_DN1795_c0_g1
+MYC,Osedax japonicus,Ojap13454_c0_g1,TRINITY_DN13454_c0_g1
+Notch,Osedax japonicus,Ojap16025_c0_g1,TRINITY_DN16025_c0_g1
